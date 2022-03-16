@@ -44,6 +44,8 @@ const Timeline = () => {
 
   return (
     <Section id = "about">
+      <SectionDivider />
+      <br/>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
       I began my web dev journey many years ago as a graphic design student at BYU-Hawaii learning the basics of HTML and CSS. Many years passed and I didn't touch anything related to the topic. Then through Bottega University, I leveled up as a developer learning the skills of the full stack and delving entirely into the path of web development.  
@@ -110,7 +112,6 @@ const Timeline = () => {
           </CarouselButton>
           ))}
       </CarouselButtons>
-      <SectionDivider />
     </Section>
   );
 };
