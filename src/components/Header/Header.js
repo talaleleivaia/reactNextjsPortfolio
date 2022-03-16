@@ -1,7 +1,8 @@
 // import Link from 'next/link';
 import React from 'react';
-import { AiFillGithub, AiFillBehanceSquare, AiFillLinkedin } from 'react-icons/ai';
+import { AiFillBehanceSquare, AiFillLinkedin } from 'react-icons/ai';
 import { FaGithubSquare } from 'react-icons/fa';
+import { SiFiverr } from "react-icons/si";
 import { RiChatSmile2Fill } from 'react-icons/ri';
 import { Link, animateScroll as scroll } from "react-scroll";
 
@@ -44,6 +45,9 @@ const Header = () =>  (
       <SocialIcons href="https://www.behance.net/talaleleiv1242">
         <AiFillBehanceSquare size = "3rem" />
       </SocialIcons>
+      <SocialIcons href="https://www.fiverr.com/talaleleivaia">
+            <SiFiverr size = "3rem" />
+          </SocialIcons>
     </Div3>
   </Container>
 );

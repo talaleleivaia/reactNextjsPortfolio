@@ -18,7 +18,12 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            React.js
+            React.js | 
+            Three,js | 
+            JavaScript | 
+            HTML | 
+            CSS | 
+            SASS |
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -29,7 +34,11 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            Node | 
+            SQL Databases | 
+            Flask | 
+            JSON | 
+            MongoDB | 
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -40,7 +49,10 @@ const Technologies = () =>  (
           <ListTitle>Design</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Adobe Photoshop and Illustrator 
+            Adobe Photoshop | 
+            Adobe Illustrator | 
+            Adobe inDesign | 
+            Unity | 
           </ListParagraph>
         </ListContainer>
       </ListItem>
